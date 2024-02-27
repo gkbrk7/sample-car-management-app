@@ -27,7 +27,7 @@ dotnet run
 dotnet watch
 ```
 
-# Scripts
+# Scripts
 
 - One can run the mssqlserver in local environment with the help of docker images so just run the below command to run mssqlserver container in local environment for testing purposes.
 
